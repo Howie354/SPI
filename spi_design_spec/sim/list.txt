@@ -1,0 +1,5 @@
+../code/spi_master_top.v
+../code/spi_slave_top.v
+../code/spi.v
+../code/tb_spi.v
+
